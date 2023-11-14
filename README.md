@@ -15,7 +15,7 @@ The deployed website can be visited [here](https://anumrasheed.github.io/Code-re
 
 To use this website, you can go to the top navigation bar and click on the relevant links to follow the details related to each menu. Each menu item represents the services provided by the Horiseon company and will take you to the service description related to each menu in the navigation bar.
 
-![Horiseon website screenshot](/assets/images/code-refactor.png)
+![Horiseon website screenshot](/assets/images/code-refactor-demo.png)
 
 ## License
 
