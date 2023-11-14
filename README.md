@@ -8,7 +8,8 @@ To achieve the above goals, I have made some changes to the code as follows:
  - Added a descriptive concise description to the title element
  - Added accessible ALT attribute for images and icon elements
 
-The deployed website can be visited [here](https://anumrasheed.github.io/Code-refactor/)
+The deployed website can be visited here
+https://anumrasheed.github.io/Horiseon-social-media/
 
 
 ## Usage
